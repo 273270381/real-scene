@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/real-scene-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/real-scene-api/src/main/resources/license.lic" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/real-scene-api/src/main/resources/privateKeys.keystore" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/real-scene-api/src/main/resources/publicCerts.keystore" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/real-scene-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/package-lock.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/api/video.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/api/waterQualityAlarm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/styles/basic.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/styles/basicdeep.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/styles/common.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/utils/videoRequest.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/alarm/waterquality/count/count.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/alarm/waterquality/count/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/alarm/waterquality/manage/manage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/basicinfo/rivermanagers/rivermanagers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/basicinfo/station/hydrology/hydrology.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/basicinfo/station/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/video/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../water-big-data/intelligence-web-v2/src/views/video/video.js" charset="UTF-8" />
+  </component>
+</project>
